@@ -12,4 +12,4 @@ I am a Computer Science student passionate about web development and building fu
 -**Tools & Platfoms:** Git, GitHub, Pycharm,
 
 **Connect with Me**
--**GitHub:** [@zackmohamed002](https://github.com/zackmohamed)
+-**GitHub:** [@zackmohamed002-del](https://github.com/zackmohamed002-del)
